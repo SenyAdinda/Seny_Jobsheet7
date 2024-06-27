@@ -1,4 +1,5 @@
-Jobsheet 7 : Membuat project dengan menggunakan minimal 2 jenis Layout.
+## Jobsheet 7 
+Membuat project dengan menggunakan minimal 2 jenis Layout.
 
 oleh : Seny Adinda Marsela STE2022O2720
 
